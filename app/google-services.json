@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "866903734475",
+    "firebase_url": "https://bemonitized.firebaseio.com",
+    "project_id": "bemonitized",
+    "storage_bucket": "bemonitized.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866903734475:android:1d6c1ea51210dd96d8c34e",
+        "android_client_info": {
+          "package_name": "com.bemonitized"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866903734475-t3gmf2fj4kbrda4a5d1ovl04to7gvnif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEG9wvJ3eHS7LuVe7GjqLk3On68Am9Wi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866903734475-t3gmf2fj4kbrda4a5d1ovl04to7gvnif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866903734475:android:bee19667384e4d7dd8c34e",
+        "android_client_info": {
+          "package_name": "tech.gamedev.pewdiepietv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866903734475-t3gmf2fj4kbrda4a5d1ovl04to7gvnif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEG9wvJ3eHS7LuVe7GjqLk3On68Am9Wi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866903734475-t3gmf2fj4kbrda4a5d1ovl04to7gvnif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

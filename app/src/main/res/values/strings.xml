@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PewDiePie TV</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pewdiepie">Pewdiepie</string>
+    <string name="videos">Videos</string>
+    <string name="merch">Merch</string>
+    <string name="playlists">Playlists</string>
+    <string name="community">Community</string>
+    <string name="profile">Profile</string>
+    <string name="apps">Apps</string>
+    <string name="need_some_merch">Need some merch?</string>
+    <string name="pewds_2021">Pewds 2021</string>
+</resources>
